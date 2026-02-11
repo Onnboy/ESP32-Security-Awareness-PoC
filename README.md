@@ -47,7 +47,8 @@ Para compilar este projeto, são necessárias as seguintes dependências:
 ## 📸 Demonstração do Projeto
 | Interface de Alerta | Painel de Auditoria (Admin) |
 |:---:|:---:|
-| ![Interface de Alerta](https://github.com/user-attachments/assets/82b4af26-2f74-4fc8-af2f-818d81f39974) | ![Painel Admin](https://github.com/user-attachments/assets/b0148ff8-c005-4d36-8063-b17f152a7f8f) |
+| ![Interface de Alerta](https://github.com/user-attachments/assets/82b4af26-2f74-4fc8-af2f-818d81f39974) | ![Painel Admin](https://github.com/user-attachments/assets/d1f6597b-e77b-4332-b2bd-6071b2ed62b3)
+) |
 
 ## 🔧 Hardware Utilizado
 <img src="https://github.com/user-attachments/assets/63ab213d-ab07-46b2-a2ae-27fcebd4b6a4" width="400">
